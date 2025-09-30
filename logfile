@@ -1,0 +1,9 @@
+2025-09-30 05:08:38,578 - MainProcess - INFO - process shutting down
+2025-09-30 05:08:38,579 - MainProcess - DEBUG - running all "atexit" finalizers with priority >= 0
+2025-09-30 05:08:38,579 - MainProcess - DEBUG - running the remaining "atexit" finalizers
+2025-09-30 05:09:10,322 - MainProcess - INFO - process shutting down
+2025-09-30 05:09:10,322 - MainProcess - DEBUG - running all "atexit" finalizers with priority >= 0
+2025-09-30 05:09:10,322 - MainProcess - DEBUG - running the remaining "atexit" finalizers
+2025-09-30 05:09:18,844 - MainProcess - INFO - process shutting down
+2025-09-30 05:09:18,844 - MainProcess - DEBUG - running all "atexit" finalizers with priority >= 0
+2025-09-30 05:09:18,844 - MainProcess - DEBUG - running the remaining "atexit" finalizers
